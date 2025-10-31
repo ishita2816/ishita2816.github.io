@@ -1,7 +1,7 @@
 # ishita2816.github.io
 # Ishita - Resume & Portfolio
 
-Welcome to my personal resume repository! I am a **Computational Data Science & Statistics student** at Michigan State University. This repository contains my resume, showcases my skills, research experience, and projects, and serves as a digital portfolio for internships and professional opportunities.
+Hi, I am Ishita, a **Computational Data Science & Statistics student** at Michigan State University. This repository contains my resume, showcases my skills, research experience, and projects, and serves as a digital portfolio for internships and professional opportunities.
 
 ---
 
