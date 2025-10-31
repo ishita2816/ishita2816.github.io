@@ -20,11 +20,26 @@ You can view or download my resume here:
 
 ---
 
-## 🧪 Research & Projects
+## 🧪 Research 
 - **CERL Lab, Michigan State University:** Analyzing interview data on student identities in data science courses.  
 - **PICUP Initiative:** Organized 7000+ entries of physics faculty data for national collaboration.  
-- **Agent-Based Modeling Projects:** Simulated interactive systems in Python.  
 
+---
+## 🧪 Projects
+
+### Formula One Data Analysis
+- Analyze Formula One race data to explore patterns in race outcomes, driver performance, and team strategies.  
+- Using Python, Pandas, and Matplotlib for data cleaning, wrangling, and visualization.
+- Using machine learning techniques for analyzing future trends 
+
+### CMSE 202 - Agent-Based Modeling Project
+- Developed an agent-based model in Python to simulate predator-prey interactions.  
+- Explored population dynamics, emergent behaviors, and effects of different parameters on system stability.
+
+### STT 180 - Speed Dating Data Analysis
+- Conducted group analyses on the `SpeedDating.dat` dataset (R).  
+- Defined research questions, proposed appropriate statistical methods, and implemented clean, tested code for data cleansing and analysis in R.  
+- Produced insights on participant behaviors, preferences, and matching outcomes.
 ---
 
 ## 📫 Contact
